@@ -1,7 +1,7 @@
-- 👋 Hi, I’m youssef
+- 👋 Hi, I’m Youssef
 - 👀 I’m interested in 'web developer'
--  I learned 'Python'
--  I’m currently learning 'HTML' and 'CSS'
+-  I learned 'Python' and 'HTML' and 'CSS'
+-  I’m currently learning 'javascript'
 -  You may reach me "+2 0122 600 7454", "youssefgerges24@gmail.com" 
 
 <!---
